@@ -1,0 +1,38 @@
+.TodoItem_default{
+    background-color: #d3edf8;
+    padding:10px;
+    margin: 20px;
+    border: 1px solid;
+    width: 40%;
+    text-align: center;
+    margin-left: 30%;
+}
+.TodoItem_importance{
+    color: tomato;
+    float: left;
+    margin-left: 10px;
+}
+.TodoItem_checkbox{
+    cursor: pointer;
+    float: left;
+    margin-right: 5px;
+}
+.TodoItem_deleteButton{
+    background-color:red;
+    color: blanchedalmond;
+    border: none;
+    padding: 5px 9px;
+    border-radius: 60% ;
+    cursor: pointer;
+    float: right;
+}
+.add_todo{
+    padding:10px;
+    margin: 20px;
+    width: 40%;
+    text-align: center;
+    margin-left: 30%;
+}
+.addtodo_importanceInput{
+    width: 20%;
+}

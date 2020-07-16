@@ -1,0 +1,12 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  line-height: 1.4;
+}
+a{
+  color: rgb(10, 10, 10);
+  text-decoration: none;
+}
