@@ -21,19 +21,19 @@ class App extends Component {
       },
       {
         id:uuidv4(),
-        topic:'do a leetcode problem',
+        topic:'Take out the trashes',
         done:false,
-        importance:'★★★★'
+        importance:'★'
       },
       {
         id:uuidv4(),
-        topic:'eat you brunch',
+        topic:'eat breakfast',
         done:false,
         importance:'★★★'
       },
       {
         id:uuidv4(),
-        topic:'start learning',
+        topic:'prepare to School',
         done:false,
         importance:'★★★★'
       }
